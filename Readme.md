@@ -1,3 +1,11 @@
+## Description
+The application consists of the following technologies
+React
+Node.js
+Mongoose ORM
+GraphQL
+Apollo Client in React
+Antd (design)
 
 ## Getting Started
 These instructions will help you set up the project on your local machine for development and testing purposes.
