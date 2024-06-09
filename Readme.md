@@ -11,6 +11,8 @@ MongoDB (>= 4.x)
 
 ## Installing
 
+Switch to master branch
+
 ## Install server dependencies
 
 cd server
