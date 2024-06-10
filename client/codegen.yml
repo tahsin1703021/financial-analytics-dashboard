@@ -1,0 +1,9 @@
+overwrite: true
+schema: "http://localhost:8000/graphql"
+documents: "src/queries/**/*.{ts,tsx}"
+generates:
+  src/gql/:
+    preset: "client"
+    plugins: []
+    config:
+      withHooks: true
